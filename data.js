@@ -1393,6 +1393,51 @@ const PLAYERS_DATA = [
             usage: 26.8
         },
         honors: ["1× NBA Champion", "9× All-Star", "4× All-NBA Team", "3× All-Defensive Team"]
+    },
+    {
+        id: "kobe-zhang",
+        name: "Kobe Zhang",
+        number: 91,
+        team: "Golden State Warriors",
+        teamAbbr: "GSW",
+        position: "PG",
+        height: 150,
+        weight: 60,
+        age: 18,
+        experience: 0,
+        draft: { year: 2025, round: 1, pick: 1 },
+        salary: "Rookie",
+        ratings: {
+            scoring: 95,
+            efficiency: 92,
+            ballHandling: 90,
+            offBall: 94,
+            clutch: 96,
+            defense: 85,
+            perimeter: 88,
+            interior: 78,
+            rebounding: 60,
+            steals: 85,
+            blocks: 45,
+            playmaking: 88,
+            turnover: 78,
+            leadership: 90,
+            durability: 88,
+            athleticism: 95,
+            stamina: 92,
+            basketballIQ: 94,
+            decisionMaking: 92,
+            impact: 92
+        },
+        advanced: {
+            per: 26.5,
+            ws: 8.5,
+            bpm: 7.8,
+            vorp: 3.2,
+            trueShooting: 58.5,
+            usage: 32.8
+        },
+        honors: ["Custom Player - Jordan Template"]
     }
 ];
 
